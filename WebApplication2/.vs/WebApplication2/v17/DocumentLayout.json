@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\webapplication2\\webapplication2\\capalogica\\asignacionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\capalogica\\asignacionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\webapplication2\\webapplication2\\capamodelo\\reparacionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\capamodelo\\reparacionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\webapplication2\\webapplication2\\capamodelo\\asignacionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\capamodelo\\asignacionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\webapplication2\\webapplication2\\capamodelo\\detallesrepacionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\capamodelo\\detallesrepacionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\webapplication2\\webapplication2\\capamodelo\\tecnicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\capamodelo\\tecnicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\webapplication2\\webapplication2\\capamodelo\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\capamodelo\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\webapplication2\\webapplication2\\capamodelo\\equiposs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\capamodelo\\equiposs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\webapplication2\\webapplication2\\capalogica\\reparacionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\capalogica\\reparacionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\webapplication2\\webapplication2\\capalogica\\tecnicoss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\capalogica\\tecnicoss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\webapplication2\\webapplication2\\capalogica\\detallesrepacionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\capalogica\\detallesrepacionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\webapplication2\\webapplication2\\capalogica\\equiposs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\capalogica\\equiposs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\webapplication2\\webapplication2\\capalogica\\usuarioss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC900789-C7F6-4614-B134-8F600BFED5F5}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\capalogica\\usuarioss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reparacionn.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\CapaModelo\\Reparacionn.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\CapaModelo\\Reparacionn.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\CapaModelo\\Reparacionn.cs",
+              "RelativeToolTip": "WebApplication2\\CapaModelo\\Reparacionn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:26:41.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Asignacionn.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\CapaModelo\\Asignacionn.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\CapaModelo\\Asignacionn.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\CapaModelo\\Asignacionn.cs",
+              "RelativeToolTip": "WebApplication2\\CapaModelo\\Asignacionn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:26:18.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetallesRepacionn.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\CapaModelo\\DetallesRepacionn.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\CapaModelo\\DetallesRepacionn.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\CapaModelo\\DetallesRepacionn.cs",
+              "RelativeToolTip": "WebApplication2\\CapaModelo\\DetallesRepacionn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:26:09.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tecnicos.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\CapaModelo\\Tecnicos.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\CapaModelo\\Tecnicos.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\CapaModelo\\Tecnicos.cs",
+              "RelativeToolTip": "WebApplication2\\CapaModelo\\Tecnicos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:25:54.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\CapaModelo\\Usuarios.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\CapaModelo\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\CapaModelo\\Usuarios.cs",
+              "RelativeToolTip": "WebApplication2\\CapaModelo\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:25:42.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Equiposs.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\CapaModelo\\Equiposs.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\CapaModelo\\Equiposs.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\CapaModelo\\Equiposs.cs",
+              "RelativeToolTip": "WebApplication2\\CapaModelo\\Equiposs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:25:33.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asignacionn.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\capaLogica\\Asignacionn.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\capaLogica\\Asignacionn.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\capaLogica\\Asignacionn.cs",
+              "RelativeToolTip": "WebApplication2\\capaLogica\\Asignacionn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:24:12.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reparacionn.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\capaLogica\\Reparacionn.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\capaLogica\\Reparacionn.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\capaLogica\\Reparacionn.cs",
+              "RelativeToolTip": "WebApplication2\\capaLogica\\Reparacionn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:25:16.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tecnicoss.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\capaLogica\\Tecnicoss.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\capaLogica\\Tecnicoss.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\capaLogica\\Tecnicoss.cs",
+              "RelativeToolTip": "WebApplication2\\capaLogica\\Tecnicoss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:24:36.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetallesRepacionn.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\capaLogica\\DetallesRepacionn.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\capaLogica\\DetallesRepacionn.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\capaLogica\\DetallesRepacionn.cs",
+              "RelativeToolTip": "WebApplication2\\capaLogica\\DetallesRepacionn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:23:57.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Equiposs.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\capaLogica\\Equiposs.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\capaLogica\\Equiposs.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\capaLogica\\Equiposs.cs",
+              "RelativeToolTip": "WebApplication2\\capaLogica\\Equiposs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:23:43.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuarioss.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\capaLogica\\Usuarioss.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\capaLogica\\Usuarioss.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\WebApplication2\\WebApplication2\\capaLogica\\Usuarioss.cs",
+              "RelativeToolTip": "WebApplication2\\capaLogica\\Usuarioss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:23:29.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
